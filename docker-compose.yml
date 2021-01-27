@@ -5,4 +5,4 @@ services:
     container_name: data-monitoring
     build: ./
     restart: "always"
-    command: -u MY_ORANGE_USER -p MY_ORANGE_PASSWORD
+    command: -u MY_ORANGE_USER -p MY_ORANGE_PASSWORD [--number MY_NUMBER_1] [--number MY_NUMBER_2]
