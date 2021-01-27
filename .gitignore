@@ -1,0 +1,5 @@
+/private
+/venv
+/.idea
+/logs
+*.pyc

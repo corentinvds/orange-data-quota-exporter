@@ -1,0 +1,4 @@
+requests
+lxml
+pytz
+prometheus_client==0.9.0
